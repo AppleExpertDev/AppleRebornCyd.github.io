@@ -1,0 +1,103 @@
+Package: com.applereborn.goodcc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.applereborn.goodcc_1.0_iphoneos-arm.deb
+Size: 6466
+MD5sum: 3c0d9bc3aa64b23bcf7b22bfb9d3317e
+SHA1: c4132362d6ab7010577ca36fa8aca2e85e7df77f
+SHA256: f524536e7b91f6bdd06624e5c12149e42e54ee38a58bebc136adb85ad3cefcb1
+Section: Tweaks
+Description: Fully disable WiFi and Bluetooth in cc.
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: GoodCC
+
+Package: com.applereborn.iappleconfig
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.applereborn.iappleconfig_2.1_iphoneos-arm.deb
+Size: 730
+MD5sum: 083d53ef5c5448cb6081948bc857cdc2
+SHA1: fde76e16875aab6eea8411992f5082c7c7d55848
+SHA256: 11454aee1245b8bede0e24f243a20f528c712ba8fc85c0581a0ca3dc19eb1860
+Section: Tweaks
+Description: Supervises the iOS device. Type "sme" in terminal to enable and to disable type "smd". Reboot might be required for it fully work. If not wait a few days or so, and supervision mode should be enabled by then.
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: iAppleConfig
+
+Package: com.applereborn.igenablelikescount
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.applereborn.igenablelikescount_1.0_iphoneos-arm.deb
+Size: 7356
+MD5sum: 97be34a13dffef25ea53504c722d2b3f
+SHA1: 6643c5df0e252f45a102d3357f50275d7415ca76
+SHA256: 061a26b377887066c40fe67c87d246da02635dd19e3ad03bcd3666a03d6e824e
+Section: Tweaks
+Description: Brings back likes count on Instagram app.
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: IGEnableLikesCount
+
+Package: com.applereborn.nopassafterrespring
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Filename: ./debs/com.applereborn.nopassafterrespring_3.0_iphoneos-arm.deb
+Size: 922
+MD5sum: dc6ce728565c2af66c44bf64afe24a6e
+SHA1: ea35155254cfc00600b34291ba0c75f59b922645
+SHA256: e3b471242341ee13dfced92a828f050919087ffc655b57f58cb045fb783ab253
+Section: Tweaks
+Description: Disables passcode after a respring. To fully remove tweak, remove the tweak in your package manager and restart your iPhone. If you don’t restart your device, the device will still disable the passcode after respring.
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: NoPassAfterRespring
+
+Package: com.applereborn.springbuildnumber
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Filename: ./debs/com.applereborn.springbuildnumber_1.0_iphoneos-arm.deb
+Size: 982
+MD5sum: 7632e8d50e365b5a82a32f71d70cb044
+SHA1: aa18a5c3e4d2f932d86c6b0ac401d01fe9a9c51e
+SHA256: 1378924215cf0faed9d7c3c7ff9cae21e25c9ac3abe6efbfc3bb2a25b493647b
+Section: Tweaks
+Description: Adds the Build Number to Status Bar. To enable or disable BN, login into terminal as root user (su) (default pass is "alpine") then type ldrestart. To disable the tweak, remove first in Cydia or what ever package manger you used to install, then follow the steps you did to enable the tweak.
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: SpringBuildNumber
+
+Package: com.applereborn.transparentdock14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.applereborn.transparentdock14_1.0_iphoneos-arm.deb
+Size: 4638
+MD5sum: 287687973d86219053151592755b6214
+SHA1: 33f7c1eda7ce9a3bc8940555bd16e20518c94071
+SHA256: fbfdb6c6d6180e018220029aa83f887810a1066f5c796a9b824de9554d116647
+Section: Tweaks
+Description: What the title says.
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: TransparentDock14
+
+Package: com.soybeys.amuze
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: @Soybeys <gabrielmarch06@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.soybeys.amuze_4.0_iphoneos-arm.deb
+Size: 1188
+MD5sum: 9cae5b1d0d2fa244e3d72080dde1789a
+SHA1: d23630c350bb4fb169ccc0c6c62b20837e05eb83
+SHA256: 20f29fa14b31f2c73a785cc03eb79b8748731114a319af55642b3875374ead05
+Section: Tweaks
+Description: Enables a hidden Lock Screen text feature on iOS/iPadOS devices. By @Soybeys and @_AppleExpert
+Author: Gabriel Hernandez <gabrielmarch06@gmail.com>
+Name: Amuze
+

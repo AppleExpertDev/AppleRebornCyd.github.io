@@ -101,17 +101,17 @@ Author: @_AppleExpert <aplerebornweb@gmail.com>
 Name: TransparentDock14
 
 Package: com.soybeys.amuze
-Version: 4.0
+Version: 4.1
 Architecture: iphoneos-arm
 Maintainer: @Soybeys <gabrielmarch06@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.soybeys.amuze_4.0_iphoneos-arm.deb
-Size: 1188
-MD5sum: 9cae5b1d0d2fa244e3d72080dde1789a
-SHA1: d23630c350bb4fb169ccc0c6c62b20837e05eb83
-SHA256: 20f29fa14b31f2c73a785cc03eb79b8748731114a319af55642b3875374ead05
+Filename: ./debs/com.soybeys.amuze_4.1_iphoneos-arm.deb
+Size: 1208
+MD5sum: 842744592ac4eaced23025c584a6bf8d
+SHA1: 0c59269cca2aca1f9ac4373cebfde51d0f4d4e63
+SHA256: 5f661e14059de8c026786d0df2743a9adeefb323adf21ce59ec0bcf9ea98db20
 Section: Tweaks
-Description: Enables a hidden Lock Screen text feature on iOS/iPadOS devices. By @Soybeys and @_AppleExpert
+Description: Enables a hidden Lock Screen text feature founded on Supervised devices on iOS/iPadOS devices. By @Soybeys and @_AppleExpert
 Author: Gabriel Hernandez <gabrielmarch06@gmail.com>
 Name: Amuze
 

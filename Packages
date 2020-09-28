@@ -43,6 +43,20 @@ Description: Brings back likes count on Instagram app.
 Author: @_AppleExpert <aplerebornweb@gmail.com>
 Name: IGEnableLikesCount
 
+Package: com.applereborn.ihatescreentimebyp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Filename: ./debs/com.applereborn.ihatescreentimebyp_1.0_iphoneos-arm.deb
+Size: 6450
+MD5sum: 20ce9614b5d0aed75bae3e55c414e733
+SHA1: 61a00670985d119a0f5710215e33d1a1d1288f36
+SHA256: 0008cce28311d02edd74be20e26d8a7d2dfe185207c37ab6bc2d6fef56bbc6c5
+Section: Tweaks
+Description: Semi bypass for Screen Time. This tweak will let you open any blocked app even though screen time is enabled with a pin. Downside to this, sound doesn't work, and YouTube also doesn't work.
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: iHateScreenTimeBYP
+
 Package: com.applereborn.nopassafterrespring
 Version: 3.0
 Architecture: iphoneos-arm

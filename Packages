@@ -13,21 +13,6 @@ Description: Fully disable WiFi and Bluetooth in cc.
 Author: @_AppleExpert <aplerebornweb@gmail.com>
 Name: GoodCC
 
-Package: com.applereborn.iappleconfig
-Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.applereborn.iappleconfig_2.1_iphoneos-arm.deb
-Size: 730
-MD5sum: 083d53ef5c5448cb6081948bc857cdc2
-SHA1: fde76e16875aab6eea8411992f5082c7c7d55848
-SHA256: 11454aee1245b8bede0e24f243a20f528c712ba8fc85c0581a0ca3dc19eb1860
-Section: Tweaks
-Description: Supervises the iOS device. Type "sme" in terminal to enable and to disable type "smd". Reboot might be required for it fully work. If not wait a few days or so, and supervision mode should be enabled by then.
-Author: @_AppleExpert <aplerebornweb@gmail.com>
-Name: iAppleConfig
-
 Package: com.applereborn.igenablelikescount
 Version: 1.0
 Architecture: iphoneos-arm

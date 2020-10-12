@@ -13,6 +13,21 @@ Description: Fully disable WiFi and Bluetooth in cc.
 Author: @_AppleExpert <aplerebornweb@gmail.com>
 Name: GoodCC
 
+Package: com.applereborn.iappleconfig
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.applereborn.iappleconfig_2.2_iphoneos-arm.deb
+Size: 1244
+MD5sum: 0decced8dc1f011d690ec7268fe5ad19
+SHA1: d6454b9aa9ce7b29f1d0e6d8c1442a9cebf1a448
+SHA256: 381fab8f81db394a6a5f7ab113c1f73dba9cba694f8c2e73392e9c4bc4ce124e
+Section: Tweaks
+Description: Supervises the iOS/iPadOS device. Reboot might be required for full activation.
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: iAppleConfig
+
 Package: com.applereborn.igenablelikescount
 Version: 1.0
 Architecture: iphoneos-arm
@@ -43,14 +58,15 @@ Author: @_AppleExpert <aplerebornweb@gmail.com>
 Name: iHateScreenTimeBYP
 
 Package: com.applereborn.nopassafterrespring
-Version: 3.0
+Version: 3.1
 Architecture: iphoneos-arm
 Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
-Filename: ./debs/com.applereborn.nopassafterrespring_3.0_iphoneos-arm.deb
-Size: 922
-MD5sum: dc6ce728565c2af66c44bf64afe24a6e
-SHA1: ea35155254cfc00600b34291ba0c75f59b922645
-SHA256: e3b471242341ee13dfced92a828f050919087ffc655b57f58cb045fb783ab253
+Depends: mobilesubstrate
+Filename: ./debs/com.applereborn.nopassafterrespring_3.1_iphoneos-arm.deb
+Size: 908
+MD5sum: e8582296fe816824cf02b141756238b7
+SHA1: 0baea698c026019bb9f4aee1751bb0e1f5440143
+SHA256: dfc05c94c391e56102c0a9cf582f8da214b95fe3d1e7e3a1feb38283184f5c60
 Section: Tweaks
 Description: Disables passcode after a respring. To fully remove tweak, remove the tweak in your package manager and restart your iPhone. If you don’t restart your device, the device will still disable the passcode after respring.
 Author: @_AppleExpert <aplerebornweb@gmail.com>

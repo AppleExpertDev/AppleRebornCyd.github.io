@@ -12,20 +12,6 @@ Description: Cloudwall VPN app, (Taken off from AppStore).
 Author: @_AppleExpert <aplerebornweb@gmail.com>
 Name: Cloudwall VPN
 
-Package: com.applereborn.geekbench5app
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
-Filename: ./debs/com.applereborn.geekbench5app_1.0_iphoneos-arm.deb
-Size: 173879596
-MD5sum: 64cfe7eb85a22093fef5bafa6e24c755
-SHA1: d4be075a70fd92891012b8827a64a6e23a41c761
-SHA256: 1c5586c5482efd543bd7cff1385ded58f2fa0f844511780fda7e1e537a14f78c
-Section: Applications
-Description: Geekbench 5 application.
-Author: @_AppleExpert <aplerebornweb@gmail.com>
-Name: Geekbench 5 (5.2.5)
-
 Package: com.applereborn.goodcc
 Version: 1.0
 Architecture: iphoneos-arm
@@ -40,21 +26,6 @@ Section: Tweaks
 Description: Fully disable WiFi and Bluetooth in cc.
 Author: @_AppleExpert <aplerebornweb@gmail.com>
 Name: GoodCC
-
-Package: com.applereborn.iappleconfig
-Version: 2.2
-Architecture: iphoneos-arm
-Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.applereborn.iappleconfig_2.2_iphoneos-arm.deb
-Size: 1244
-MD5sum: 0decced8dc1f011d690ec7268fe5ad19
-SHA1: d6454b9aa9ce7b29f1d0e6d8c1442a9cebf1a448
-SHA256: 381fab8f81db394a6a5f7ab113c1f73dba9cba694f8c2e73392e9c4bc4ce124e
-Section: Tweaks
-Description: Supervises the iOS/iPadOS device. Reboot might be required for full activation.
-Author: @_AppleExpert <aplerebornweb@gmail.com>
-Name: iAppleConfig
 
 Package: com.applereborn.iappleconfig
 Version: 2.3

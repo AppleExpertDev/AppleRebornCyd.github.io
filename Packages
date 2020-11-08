@@ -1,3 +1,31 @@
+Package: com.applereborn.cloudwallvpn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Filename: ./debs/com.applereborn.cloudwallvpn_1.0_iphoneos-arm.deb
+Size: 5095448
+MD5sum: ceb07927ab7c72970e9374044d93ca78
+SHA1: 8f7e8e792270bf9d074b6fc37e09180bee89b113
+SHA256: 876cfd67ac956c1962116f1bc74e136f1d7d6e0bd0d297c1f159c3b414bfc841
+Section: Applications
+Description: Cloudwall VPN app, (Taken off from AppStore).
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: Cloudwall VPN
+
+Package: com.applereborn.geekbench5app
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Filename: ./debs/com.applereborn.geekbench5app_1.0_iphoneos-arm.deb
+Size: 173879596
+MD5sum: 64cfe7eb85a22093fef5bafa6e24c755
+SHA1: d4be075a70fd92891012b8827a64a6e23a41c761
+SHA256: 1c5586c5482efd543bd7cff1385ded58f2fa0f844511780fda7e1e537a14f78c
+Section: Applications
+Description: Geekbench 5 application.
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: Geekbench 5 (5.2.5)
+
 Package: com.applereborn.goodcc
 Version: 1.0
 Architecture: iphoneos-arm
@@ -25,6 +53,21 @@ SHA1: d6454b9aa9ce7b29f1d0e6d8c1442a9cebf1a448
 SHA256: 381fab8f81db394a6a5f7ab113c1f73dba9cba694f8c2e73392e9c4bc4ce124e
 Section: Tweaks
 Description: Supervises the iOS/iPadOS device. Reboot might be required for full activation.
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: iAppleConfig
+
+Package: com.applereborn.iappleconfig
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.applereborn.iappleconfig_2.3_iphoneos-arm.deb
+Size: 1220
+MD5sum: 7beff005ec7f09b6e9020d68b86194bd
+SHA1: 3b26ddd418d12fde8876bf4a4133fc07d45d6ec8
+SHA256: f434ef1c9b22e215db4070f6ffdb6e89af4a5bc8f20159098eb1bb38b3170d60
+Section: Tweaks
+Description: Supervises the iOS/iPadOS device. Reboot might be required for full activation. (New in 2.3: Removed Organization Name, In 2.3 it won't show @_AppleExpert. I AM NOT IN CONTROL OF YOUR IPHONE, IT'S JUST A NAME.)
 Author: @_AppleExpert <aplerebornweb@gmail.com>
 Name: iAppleConfig
 

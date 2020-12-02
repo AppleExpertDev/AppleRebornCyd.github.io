@@ -1,3 +1,17 @@
+Package: com.applereborn.amuze
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Filename: ./debs/com.applereborn.amuze_4.1_iphoneos-arm.deb
+Size: 1108
+MD5sum: 6087cbf80c5ee636c3cf47546f6a978d
+SHA1: 1b90c289f8aa92a0a418d9078a3bc492db8ed7de
+SHA256: 9b9f9103814dd5391c83a7124e46c54640da10e7f991d29d7603ace664d869c4
+Section: Tweaks
+Description: Enables a hidden Lock Screen text feature founded on Supervised devices on iOS/iPadOS devices.
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: Amuze
+
 Package: com.applereborn.cloudwallvpn
 Version: 1.0
 Architecture: iphoneos-arm
@@ -114,19 +128,4 @@ Section: Tweaks
 Description: What the title says.
 Author: @_AppleExpert <aplerebornweb@gmail.com>
 Name: TransparentDock14
-
-Package: com.soybeys.amuze
-Version: 4.1
-Architecture: iphoneos-arm
-Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.soybeys.amuze_4.1_iphoneos-arm.deb
-Size: 1220
-MD5sum: 3d386e55ddaae58f0d31d21cf3f0e613
-SHA1: b4b0b5d189738596734e63e5d5db64a97967f670
-SHA256: 2376ec6768ea4d901d1c46baa23306622cf375243902f41cd7d510ddd8d4dcad
-Section: Tweaks
-Description: Enables a hidden Lock Screen text feature founded on Supervised devices on iOS/iPadOS devices. By @Soybeys and @_AppleExpert
-Author: Gabriel Hernandez <gabrielmarch06@gmail.com>
-Name: Amuze
 

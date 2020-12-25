@@ -100,6 +100,20 @@ Description: Disables passcode after a respring. To fully remove tweak, remove t
 Author: @_AppleExpert <aplerebornweb@gmail.com>
 Name: NoPassAfterRespring
 
+Package: com.applereborn.obscaminsaller
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Filename: ./debs/com.applereborn.obscaminsaller_1.0_iphoneos-arm.deb
+Size: 4970920
+MD5sum: 449da1ad5caa3e25214641dd1e566390
+SHA1: 3d55fab7897d3745568d5c1c52950acb8196c207
+SHA256: ea948470cbbb0e14f435ae308f68297ae027bd75f5b629057f430feab1be5d4a
+Section: Tweaks
+Description: Use your idevice as a webcam for OBS.
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: OBS Camera App Installer
+
 Package: com.applereborn.springbuildnumber
 Version: 1.0
 Architecture: iphoneos-arm

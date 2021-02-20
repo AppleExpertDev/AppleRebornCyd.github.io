@@ -1,8 +1,8 @@
-Origin: AppleRebornRepo
-Label: AppleRebornRepo
+Origin: AppleReborn Repo
+Label: AppleReborn Repo
 Suite: stable
-Version: 1.0
+Version: 2.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: Cydia Repo by @_AppleExpert.
+Description: @_AppleExpert"s Cydia Repo.
